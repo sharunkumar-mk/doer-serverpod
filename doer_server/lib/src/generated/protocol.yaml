@@ -1,0 +1,13 @@
+business:
+  - getService:
+  - postBusiness:
+  - deleteBusiness:
+service:
+  - getService:
+  - postService:
+  - deleteService:
+upload:
+  - getUploadDescription:
+  - verifyUpload:
+  - getUploadPath:
+  - deleteUpload:

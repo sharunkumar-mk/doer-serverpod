@@ -1,0 +1,7 @@
+class: Service
+table: service
+fields:
+  name: String
+  description: List<String>
+  subServices: List<SubService>;
+  image: String

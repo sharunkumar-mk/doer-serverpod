@@ -1,0 +1,6 @@
+class: Business
+table: business
+fields:
+  name: String
+  description: List<String>
+  image: String

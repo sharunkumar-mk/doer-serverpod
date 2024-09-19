@@ -1,0 +1,6 @@
+class: SubService
+table: sub_services
+fields:
+  name: String?
+  description: List<String>?
+  image: String?

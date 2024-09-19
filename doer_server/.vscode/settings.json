@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 8090,
+      "driver": "PostgreSQL",
+      "name": "my connection",
+      "database": "doer",
+      "username": "postgres",
+      "password": "sKnckk_j_JVP6k4uPKLfOCKZq6QnAD58"
+    }
+  ]
+}
